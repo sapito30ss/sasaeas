@@ -1,0 +1,205 @@
+body {
+    font-family: "Segoe UI Webfont",-apple-system,"Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    padding-bottom: .227px;
+    padding-top: .227px;
+    padding-bottom: .227px;
+    padding-top: .227px;
+    color: #000;
+    background-color: #fff;
+    margin: 0;
+}
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+a:link {
+    color: #0067b8;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+.oiJwswXvcGRGALK{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f2f2f2;
+}
+.oVoHoFLXxLHqmZm{
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+.SDLsceHgHTkzLjC {
+    display: table-cell;
+    vertical-align: middle
+}
+.zJogZyIdPIeffiX {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 440px;
+    width: calc(100% - 40px);
+    padding: 42px;
+    margin-bottom: 28px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,.2);
+}
+.SHerHObRHothMjP {
+    color: #1b1b1b;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 5px 0px;
+    margin-top: 16px;
+    margin-bottom: 12px;
+    font-family: "Segoe UI","Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+}
+.VhoGGJOkXeigeId{
+animation-duration:.45s;
+animation-timing-function:cubic-bezier(.5,0,.5,1);
+animation-fill-mode:both;
+transition-property:left;
+}
+.VhoGGJOkXeigeId.slide-in-next{
+animation-name:show-from-right;
+}
+ @keyframes show-from-right{
+ from{left:50px;opacity:0}
+ to{left:0;opacity:1}
+}
+.VhoGGJOkXeigeId.slide-in-back{
+animation-name:show-from-left;
+}
+.QVooEmzYmzaoXSv {
+    width: 100%;
+    transition: width 1s;
+}
+.iHdVbkVQvFXkuwc {
+    margin-bottom: 16px;
+    position: relative;
+}
+input[type="email"], input[type="password"]{
+  border-style: solid;
+  padding: 6px 10px;
+  border-width: 1px;
+  border-color: rgba(0,0,0,.6);
+  height: 36px;
+  outline: none;
+  -webkit-border-radius: 0;
+  background-color: transparent;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  padding-left: 0;
+  font: inherit;
+    
+}
+.BDbPWCvirlYyMaP{
+    border-color: #0067b8;
+    background-color: #0067b8;
+    color: #fff;
+    height: 32px;
+    border: none;
+    min-width: 108px;
+    -webkit-appearance: button;
+    cursor: pointer;
+    font: inherit;
+}
+.BDbPWCvirlYyMaP:hover{
+   background-color: #005da6;
+   border-color: transparent
+}
+.pXrpUoNoNVeZleE {
+    text-align: right;
+    padding: 10px 2px 0px;
+}
+.mJNHvZHfqTAjshj{
+    width: 88%;
+    padding: 7px 24px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 440px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,.2);
+}
+.GcoybiklEMpmnCD{
+    display: table-cell;
+    vertical-align: middle;
+}
+.rNBPNFGFnzecrZw{
+    height: 24px;
+    background: #fff;
+    margin-top: 16px;
+    margin-bottom: -4px;
+}
+.XAOsRYgzxZbYHDI{
+    line-height: 24px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cfWHJjWtVLabsNN{
+    min-height: 24px;
+    width: 24px;
+    min-width: 24px;
+    float: left;
+    padding: 0;
+    background-color: #fff;
+    border-width: 0;
+    border-radius: 12px;
+    margin-right: 2px;
+}
+
+@media(max-width: 600px),(max-height:366px) {
+    .oiJwswXvcGRGALK {
+        display:none
+    }
+    .SDLsceHgHTkzLjC {
+        vertical-align: top
+    }
+    .SDLsceHgHTkzLjC.app {
+        padding-left: 8px;
+        padding-right: 8px
+    }
+    .zJogZyIdPIeffiX {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        border: 0;
+        padding: 24px;
+        width: 100%
+    }
+    .mJNHvZHfqTAjshj{
+      width: 88%;
+      border: 1px solid #818c94;
+      box-shadow: none;
+      padding: 7px 24px;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 440px;
+      background-color: #fff;
+    }
+}
+
+#tlVVJNECrWGtadX.hide{
+    width: 0;
+}
+
+#test {
+  
+  
+    width: 100%;
+    transition: width 1s;
+  }
+  
+  #test.hide {
+    width: 0;
+  }
